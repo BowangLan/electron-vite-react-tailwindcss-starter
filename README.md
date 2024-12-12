@@ -1,6 +1,6 @@
-# desktop
+# electron-vite-react-tailwindcss-starter
 
-An Electron application with React and TypeScript
+This is An Electron application boilerplate with Vite, TypeScript, React, and TailwindCSS, initialized using [electron-vite](https://electron-vite.org).
 
 ## Recommended IDE Setup
 
